@@ -1,7 +1,7 @@
 # Urls
 ## Hello world:
-localhost:5010
+localhost:5000
 ## Documentacion swagger:
-localhost:5010/apidocs
+localhost:5000/apidocs
 # Run docker
-docker run -it --rm -d -p 5010:5000 --name web byvoxel/mqtt:latest
+docker run -it --rm -d -p 5000:5000 --name web byvoxel/mqtt:latest
